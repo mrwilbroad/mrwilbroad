@@ -3,7 +3,7 @@ mrwilbroad tz
 ```
 ***Keep coding, keep learning, and keep dreaming big. Your skills and determination have the power to create extraordinary things. Embrace the challenges, celebrate the victories, and never stop growing. The world needs your innovative ideas and unique perspectives. You have the ability to make a difference, so go out there and make your mark. Happy coding!***
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;width:100vw">
   <span style="color: red; padding: 5px;">m</span>
   <span style="color: red; padding: 5px;">r</span>
   <span style="color: red; padding: 5px;">w</span>
