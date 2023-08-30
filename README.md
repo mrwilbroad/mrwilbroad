@@ -6,7 +6,7 @@ mrwilbroad tz
 
 <span>[Instagram](https://www.instagram.com/mrwilbroad/)<span>
 <span>[Twitter](https://twitter.com/mrwilbroad)</span>
-[DM ME](https://wa.me/message/5WMX3BOXXAPZB1)
+[👋LETs CHART NOW](https://wa.me/message/5WMX3BOXXAPZB1)
 
 
    
