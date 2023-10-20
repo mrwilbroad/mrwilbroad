@@ -11,8 +11,6 @@ mrwilbroad tz
   <a href="https://twitter.com/mrwilbroad">Twitter</a> •
   <a href="https://www.instagram.com/mrwilbroad/">Instagram</a>
 </p>
----
-
 ## 🚀 About Me
 - **Student at University of Dodoma(UDOM)**
   - *Course*: Bsc-Software Engineering
@@ -20,8 +18,7 @@ mrwilbroad tz
 - Simba Sport Club
 - Chelsea Fs
 - France National team
-- Simba Sports Club.
-- ooh Music but not too much
+- Music but not too much
 - Movies -I'm not interested
 
 ## 🌱 I'm Currently Learning
