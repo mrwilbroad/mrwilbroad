@@ -17,9 +17,12 @@ mrwilbroad tz
 - **Student at University of Dodoma(UDOM)**
   - *Course*: Bsc-Software Engineering
   - *Current Status*: Pursuing my degree and passionate about learning and growing in the field of software engineering.
-When I'm not coding, you can find me on the sports field 🏟️. I'm a passionate fan of Simba Sports Club, Chelsea FC, and the France national team ⚽.
----ooh Music but not too much
----Movies -I'm not interested
+When I'm not coding, you can find me on the sports field 🏟️.
+Simba Sports Club
+Chelsea FC
+France national team ⚽.
+ooh Music but not too much
+Movies -I'm not interested
 
 ## 🌱 I'm Currently Learning
 I'm currently diving deep into [React.js](https://reactjs.org/) and [Next.js](https://nextjs.org/) to advance Software development Skills
