@@ -1,7 +1,7 @@
 ```mrwilbroad-tz
 mrwilbroad tz
 ```
-<<h1 align="center">👋 Hello, I'm Wilbroad Francis Mark</h1>
+<h1 align="center">👋 Hello, I'm Wilbroad Francis Mark</h1>
 <p align="center">
   📱 Mobile: +255 626 195 167 & +255 676 085 167<br>
   ✉️ Email: mrwilbroadmark@gmail.com(mailto:mrwilbroadmark@gmail.com)
