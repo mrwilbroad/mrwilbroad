@@ -12,6 +12,7 @@ mrwilbroad tz
   <a href="https://www.instagram.com/mrwilbroad/">Instagram</a>
 </p>
 ---
+
 ## 🚀 About Me
 - **Student at University of Dodoma(UDOM)**
   - *Course*: Bsc-Software Engineering
@@ -19,8 +20,10 @@ mrwilbroad tz
 When I'm not coding, you can find me on the sports field 🏟️. I'm a passionate fan of Simba Sports Club, Chelsea FC, and the France national team ⚽.
 ---ooh Music but not too much
 ---Movies -I'm not interested
+
 ## 🌱 I'm Currently Learning
 I'm currently diving deep into [React.js](https://reactjs.org/) and [Next.js](https://nextjs.org/) to advance Software development Skills
+
 ## 💻 Coding Tools
 Here are the coding tools and software I love to work with:
 - **Operating System**: Ubuntu LTS 22.04
