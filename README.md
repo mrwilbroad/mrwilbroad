@@ -8,27 +8,27 @@ mrwilbroad tz
 </p>
 
 <p align="center">
-  <a href="[Your Website URL]">Website</a> •
-  <a href="[Your LinkedIn URL]">LinkedIn</a> •
-  <a href="[Your Twitter URL]">Twitter</a> •
-  <a href="[Your Email Address]">Email</a>
+  <a href="https://bento.me/mrwilbroad">mrwilbroad's project showcase</a> •
+  <a href="https://twitter.com/mrwilbroad">Twitter</a> •
+  <a href="https://www.instagram.com/mrwilbroad/">Instagram</a>
 </p>
 ---
 
 ## 🚀 About Me
 - **Student at University of Dodoma(UDOM)**
-  - *Major*: Software Engineering
+  - *Course*: Bsc-Software Engineering
   - *Current Status*: Pursuing my degree and passionate about learning and growing in the field of software engineering.
-## When I'm not coding, you can find me on the sports field 🏟️. I'm a passionate fan of Simba Sports Club, Chelsea FC, and the France national team ⚽.
----
+When I'm not coding, you can find me on the sports field 🏟️. I'm a passionate fan of Simba Sports Club, Chelsea FC, and the France national team ⚽.
+---ooh Music but not too much
+---Movies -I'm not interested
 
 ## 🌱 I'm Currently Learning
-I'm currently diving deep into [React.js](https://reactjs.org/) and [Next.js](https://nextjs.org/). Exploring the world of web development and building exciting projects with these technologies.
+I'm currently diving deep into [React.js](https://reactjs.org/) and [Next.js](https://nextjs.org/) to advance Software development Skills
 
-## 💬 Let's Connect
-Feel free to connect with me through these platforms:
-- 🐦 [Twitter](https://twitter.com/mrwilbroad)
-- 📸 [Instagram](https://www.instagram.com/mrwilbroad/)
-- 🍱 [Bento](https://bento.me/mrwilbroad)
-Let's have interesting conversations and stay in touch
----
+## 💻 Coding Tools
+Here are the coding tools and software I love to work with:
+- **Operating System**: Ubuntu LTS 22.04
+- **Code Editor**: [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
+- **Database Tool for postgresql**: [pgAdmin 4](https://www.pgadmin.org/)
+- **IDE**: [Apache NetBeans](https://netbeans.apache.org/)
+
