@@ -11,6 +11,7 @@ mrwilbroad tz
   <a href="https://twitter.com/mrwilbroad">Twitter</a> •
   <a href="https://www.instagram.com/mrwilbroad/">Instagram</a>
 </p>
+
 ## 🚀 About Me
 - **Student at University of Dodoma(UDOM)**
   - *Course*: Bsc-Software Engineering
@@ -32,4 +33,4 @@ Here are the coding tools and software I love to work with:
 - **IDE**: [Apache NetBeans](https://netbeans.apache.org/)
 
 ## 🏡 Where I Live
-I currently reside in **Pwani**, specifically in **Kiluvya Kwa Komba**.I'm fortunate to call it home.
+I currently reside in **Pwani,Tanzania**, specifically in **Kiluvya Kwa Komba**.I'm fortunate to call it home.
