@@ -14,7 +14,7 @@ mrwilbroad tz
   <a href="https://www.instagram.com/mrwilbroad/">Instagram</a>
 </p>
 
-## 🚀 About Me
+## whoami | grep less
 - **Student at University of Dodoma(UDOM)**
   - *Course*: Bsc-Software Engineering
   - *Current Status*: Pursuing my degree and passionate about learning and growing in the field of software engineering.
