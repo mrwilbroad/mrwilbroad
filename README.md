@@ -24,15 +24,18 @@ mrwilbroad tz
 - Music but not too much
 - Movies -I'm not interested
 
-## 🌱 I'm Currently Learning
+## I'm Currently Learning
 I'm currently diving deep into [React.js](https://reactjs.org/) and [Next.js](https://nextjs.org/) to advance Software development Skills
 
-## 💻 Coding Tools
+## Coding Tools
 Here are the coding tools and software I love to work with:
 - **Operating System**: Ubuntu LTS 22.04
 - **Code Editor**: [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
 - **Database Tool for postgresql**: [pgAdmin 4](https://www.pgadmin.org/)
 - **IDE**: [Apache NetBeans](https://netbeans.apache.org/)
 
-## 🏡 Where I Live
+## Where I Live
 I currently reside in **Pwani,Tanzania**, specifically in **Kiluvya Kwa Komba**.I'm fortunate to call it home.
+
+## Lastly
+## To one of Principle of Software Engineering ,increase cohesion decrease coupling
