@@ -34,7 +34,7 @@ Here are the coding tools and software I love to work with:
 - **Database Tool for postgresql**: [pgAdmin 4](https://www.pgadmin.org/)
 - **IDE**: [Apache NetBeans](https://netbeans.apache.org/)
 
-## Where I Live
+## cd /home
 I currently reside in **Pwani,Tanzania**, specifically in **Kiluvya Kwa Komba**.I'm fortunate to call it home.
 
 ## Lastly
