@@ -15,8 +15,8 @@ mrwilbroad tz
 </p>
 
 ## whoami | grep less
-- **Student at University of Dodoma(UDOM)**
-  - *Course*: Bsc-Software Engineering
+- **Student at University of Dodoma [UDOM](https://www.udom.ac.tz/)**
+  - *Course*: Bsc-Software Engineering [Bsc-SE](https://www.udom.ac.tz/programme/view?id=VDBSclBRPT0=)
   - *Current Status*: Pursuing my degree and passionate about learning and growing in the field of software engineering.
 - [Simba Sport Club](https://simbasc.co.tz/)
 - [Chelsea Fs](https://www.chelseafc.com/en)
