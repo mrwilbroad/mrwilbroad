@@ -38,4 +38,4 @@ Here are the coding tools and software I love to work with:
 I currently reside in **Pwani,Tanzania**, specifically in **Kiluvya Kwa Komba**.I'm fortunate to call it home.
 
 ## Lastly
-## To one of Principle of Software Engineering ,increase cohesion decrease coupling
+[To one of Principle of Software Engineering ,increase cohesion decrease coupling](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Coupling_sketches_cropped_1.svg/300px-Coupling_sketches_cropped_1.svg.png)
