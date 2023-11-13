@@ -20,8 +20,8 @@ mrwilbroad tz
   - *Current Status*: Pursuing my degree and passionate about learning and growing in the field of software engineering.
 
 ## I'm Currently Learning
-- [React.js](https://reactjs.org/)-
-- [Next.js](https://nextjs.org/)
+- **[React.js](https://reactjs.org/)**
+- **[Next.js](https://nextjs.org/)**
 
 ## Coding Tools
 Here are the coding tools and software I love to work with:
