@@ -5,7 +5,7 @@ mrwilbroad tz
   <i>👋 Hello, I'm mrwilbroad</i>
 </h1>
 <p align="center">
-  📱 Mobile: +255 676 085 167
+  📱 Mobile: +255 626 195 167
   ✉️ Email: mrwilbroadmark@gmail.com
 </p>
 <p align="center">
@@ -18,11 +18,6 @@ mrwilbroad tz
 - **Student at University of Dodoma [UDOM](https://www.udom.ac.tz/)**
   - *Course*: Bsc-Software Engineering [Bsc-SE](https://www.udom.ac.tz/programme/view?id=VDBSclBRPT0=)
   - *Current Status*: Pursuing my degree and passionate about learning and growing in the field of software engineering.
-- [Simba Sport Club](https://simbasc.co.tz/)
-- [Chelsea Fs](https://www.chelseafc.com/en)
-- [France National team](https://twitter.com/frenchteam?lang=en)
-- Music-[#katchua](https://www.youtube.com/watch?v=OjCVx8i2PCA)
-- Movies -[mr Robot](https://www.imdb.com/title/tt4158110/)
 
 ## I'm Currently Learning
 I'm currently diving deep into [React.js](https://reactjs.org/) and [Next.js](https://nextjs.org/) to advance Software development Skills
