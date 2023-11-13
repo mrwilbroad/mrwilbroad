@@ -23,15 +23,7 @@ mrwilbroad tz
 - **[React.js](https://reactjs.org/)**
 - **[Next.js](https://nextjs.org/)**
 
-## Coding Tools
-Here are the coding tools and software I love to work with:
-- **Operating System**: Ubuntu LTS 22.04
-- **Code Editor**: [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
-- **Database Tool for postgresql**: [pgAdmin 4](https://www.pgadmin.org/)
-- **IDE**: [Apache NetBeans](https://netbeans.apache.org/)
-
 ## cd /home
-I currently reside in **Pwani,Tanzania**, specifically in **Kiluvya Kwa Komba**.I'm fortunate to call it home.
+Hello **Kiluvya kwa Komba-Pwani Tz**
 
-## Lastly
-[To one of Principle of Software Engineering ,increase cohesion decrease coupling](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Coupling_sketches_cropped_1.svg/300px-Coupling_sketches_cropped_1.svg.png)
+## I'm proud to be Tanzanian 🇹🇿
