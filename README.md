@@ -24,6 +24,6 @@ mrwilbroad tz
 - **[Next.js](https://nextjs.org/)**
 
 ## cd /home
-Hello **[Kiluvya kwa Komba-Pwani-Tz](https://www.google.com/search?q=kiluvya+kwa+komba&ie=UTF-8&oe=UTF-8&hl=en-tz&client=safari)**
+Hello **[Kiluvya kwa Komba-Pwani-Tz](https://www.google.com/maps/search/kiluvya+kwa+komba/@-6.7906983,39.0121642,16z/data=!3m1!4b1?hl=en-tz&entry=ttu)**
 
 ## I'm proud to be Tanzanian 🇹🇿
