@@ -14,6 +14,17 @@ mrwilbroad tz
   <a href="https://www.instagram.com/mrwilbroad/">Instagram</a>
 </p>
 
+
+## Front-end
+```mermaid
+graph TD;
+    Html5--> Css
+    Javascript-Bootstrap
+    Typescript-->ReactJs;
+    Vite-->NextJs;
+```
+
+
 ## whoami | grep less
 - **Student at University of Dodoma [UDOM](https://www.udom.ac.tz/)**
   - *Course*: Bsc-Software Engineering [Bsc-SE](https://www.udom.ac.tz/programme/view?id=VDBSclBRPT0=)
