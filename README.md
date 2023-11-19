@@ -18,9 +18,12 @@ mrwilbroad tz
 ## Front-end
 ```mermaid
 graph TD;
-    Html5--> Css
-    Javascript-Bootstrap
+    Html5--> Css;
+    Css-Javascript;
+    Javascript-Bootstrap;
+    Bootstrap-Typescript;
     Typescript-->ReactJs;
+    ReactJs-Vite;
     Vite-->NextJs;
 ```
 
