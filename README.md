@@ -2,7 +2,7 @@
 mrwilbroad tz
 ```
 <h1 align="center">
-  <i>👋 Hello, I'm mrwilbroad</i>
+  <i>👋 Bonjour, je suis mrwilbroad</i>
 </h1>
 <p align="center">
   📱 Mobile: +255 626 195 167
