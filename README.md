@@ -34,6 +34,8 @@ Feel free to ask about:
 - PHP
 - MySQL,postgreslq, MongoDb,aws-bucket storage
 - Contributing to open source
+- Search Engine Optimization(SEO) in web Development
+- Software Development Life Cycle (SDLC)
 
 
 ## cd /home
