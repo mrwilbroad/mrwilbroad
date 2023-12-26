@@ -23,6 +23,19 @@ mrwilbroad tz
 - **[React.js](https://reactjs.org/)**
 - **[Next.js](https://nextjs.org/)**
 
+## What to Ask Me?
+
+Feel free to ask about:
+
+- React.js
+- Next.js
+- TypeScript
+- Laravel
+- PHP
+- MySQL,postgreslq, MongoDb,aws-bucket storage
+- Contributing to open source
+
+
 ## cd /home
 Hello **[Kiluvya kwa Komba-Pwani-Tz](https://www.google.com/maps/search/kiluvya+kwa+komba/@-6.7906983,39.0121642,16z/data=!3m1!4b1?hl=en-tz&entry=ttu)**
 
