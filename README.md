@@ -25,8 +25,6 @@ mrwilbroad tz
 
 ## What to Ask Me?
 
-Feel free to ask about:
-
 - React.js
 - Next.js
 - TypeScript
