@@ -2,16 +2,17 @@
 mrwilbroad tz
 ```
 <h1 align="center">
-  <i>👋 Bonjour, je suis mrwilbroad</i>
+  <i>👋 Hi,I'm mrwilbroad</i>
 </h1>
 <p align="center">
   📱 Mobile: +255 626 195 167
   ✉️ Email: mrwilbroadmark@gmail.com
 </p>
 <p align="center">
-  <a href="https://bento.me/mrwilbroad">bento</a> •
-  <a href="https://twitter.com/mrwilbroad">Twitter</a> •
-  <a href="https://www.instagram.com/mrwilbroad/">Instagram</a>
+  <a target="_blank" href="https://bento.me/mrwilbroad">bento</a> •
+  <a target="_blank" href="https://twitter.com/mrwilbroad">Twitter</a> •
+  <a target="_blank"  href="https://www.instagram.com/mrwilbroad/">Instagram</a>
+  <a target="_blank" href="[https://www.instagram.com/mrwilbroad/](https://wa.me/message/5WMX3BOXXAPZB1)">what'sup</a>
 </p>
 
 ## whoami | grep less
@@ -25,18 +26,9 @@ mrwilbroad tz
 
 ## What to Ask Me?
 
-- React.js
-- Next.js
-- TypeScript
-- Laravel
-- PHP
+- React.js,Next.js,TypeScript,Laravel,Php
 - MySQL,postgreslq, MongoDb,aws-bucket storage
-- Contributing to open source
 - Search Engine Optimization(SEO) in web Development
 - Software Development Life Cycle (SDLC)
-
-
-## cd /home
-Hello **[Kiluvya kwa Komba-Pwani-Tz](https://www.google.com/maps/search/kiluvya+kwa+komba/@-6.7906983,39.0121642,16z/data=!3m1!4b1?hl=en-tz&entry=ttu)**
-
+- 
 ## I'm proud to be Tanzanian 🇹🇿
