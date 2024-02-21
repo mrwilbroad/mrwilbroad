@@ -27,7 +27,5 @@ mrwilbroad tz
 
 - React.js,Next.js,TypeScript,Laravel,Php
 - MySQL,postgreslq, MongoDb,aws-bucket storage
-- Search Engine Optimization(SEO) in web Development
+- Search Engine Optimization(SEO)
 - Software Development Life Cycle (SDLC)
-- 
-## I'm proud to be Tanzanian 🇹🇿
