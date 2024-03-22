@@ -12,7 +12,7 @@ mrwilbroad tz
   <a target="_blank" href="https://bento.me/mrwilbroad">bento</a> •
   <a target="_blank" href="https://twitter.com/mrwilbroad">Twitter</a> •
   <a target="_blank"  href="https://www.instagram.com/mrwilbroad/">Instagram</a>
-  <a target="_blank" href="[https://www.instagram.com/mrwilbroad/](https://wa.me/message/5WMX3BOXXAPZB1)">what'sup</a>
+  <a target="_blank" href="https://wa.me/message/5WMX3BOXXAPZB1">Chat-With-me</a>
 </p>
 
 ## whoami | grep less
