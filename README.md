@@ -22,6 +22,7 @@ mrwilbroad tz
 - **Student at University of Dodoma [UDOM](https://www.udom.ac.tz/)**
   - *Course*: Bsc-Software Engineering [Bsc-SE](https://www.udom.ac.tz/programme/view?id=VDBSclBRPT0=)
   - *Current Status*: Pursuing my degree and passionate about learning and growing in the field of software engineering.
+  - Flexible with Agile methodology,Service-Oriented Architecture (SOA), and Model-View-Controller (MVC) frameworks like Laravel
 
 ## I'm Currently Learning
 - **[Next.js](https://nextjs.org/)**
