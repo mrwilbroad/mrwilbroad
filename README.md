@@ -26,10 +26,4 @@ mrwilbroad tz
 
 ## I'm Currently Learning
 - **[Next.js](https://nextjs.org/)**
-
-## What to Ask Me?
-
-- React.js,Next.js,TypeScript,Laravel,Php
-- MySQL,postgreslq, MongoDb,aws-bucket storage
-- Search Engine Optimization(SEO)
-- Software Development Life Cycle (SDLC)
+-  **[Flutter]([https://nextjs.org/](https://flutter.dev/))**
