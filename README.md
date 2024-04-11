@@ -26,4 +26,4 @@ mrwilbroad tz
 
 ## I'm Currently Learning
 - **[Next.js](https://nextjs.org/)**
--  **[Flutter]([https://nextjs.org/](https://flutter.dev/))**
+-  **[Flutter](https://flutter.dev/)**
