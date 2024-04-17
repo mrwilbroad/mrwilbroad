@@ -1,5 +1,5 @@
 ```mrwilbroad-tz
-mrwilbroad tz
+mrwilbroad tz +255 626 195 167 mrwilbroadmark@gmail.com
 ```
 <h1 align="center">
   <i>👋 Hi,I'm mrwilbroad</i>
