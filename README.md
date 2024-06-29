@@ -25,6 +25,7 @@ mrwilbroad +255626195167 mrwilbroadmark@gmail.com
   - Flexible with Agile methodology,Service-Oriented Architecture (SOA), and Model-View-Controller (MVC) frameworks like [Laravel](https://laravel.com/)
 
 ## I'm Currently Learning
-- **[Next.js](https://nextjs.org/)**
--  **[Flutter](https://flutter.dev/)**
+-  **[Flutter](https://flutter.dev/) For Mobile development (cross-platform)**
+-  **[Django](https://www.djangoproject.com/) to Interact with ML**
+
 
