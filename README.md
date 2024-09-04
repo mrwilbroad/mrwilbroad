@@ -21,10 +21,7 @@ mrwilbroad +255626195167 mrwilbroadmark@gmail.com
 </p>
 
 ## whoami | grep less
-- **Student at University of Dodoma [UDOM](https://www.udom.ac.tz/)**
-  - *Course*: Bsc-Software Engineering [Bsc-SE](https://www.udom.ac.tz/programme/view?id=VDBSclBRPT0=)
-  - *Current Status*: *FINALIST* -Pursuing my degree and passionate about learning and growing in the field of software engineering.
-  - Flexible with Agile methodology,Service-Oriented Architecture (SOA), and Model-View-Controller (MVC) frameworks like [Laravel](https://laravel.com/)
+  - Software Engineer | Software Developer
 
 ## I'm Currently Learning
 -  **[Flutter](https://flutter.dev/) For Mobile development (cross-platform)**
