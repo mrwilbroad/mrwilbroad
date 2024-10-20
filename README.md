@@ -25,6 +25,5 @@ mrwilbroad +255626195167 mrwilbroadmark@gmail.com
 
 ## I'm Currently Learning
 -  **[Flutter](https://flutter.dev/) For Mobile development (cross-platform)**
--  **[Django](https://www.djangoproject.com/) to Interact with ML**
 
 
