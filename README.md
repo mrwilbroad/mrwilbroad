@@ -23,7 +23,7 @@
 ## whoami | grep less
   - Software Engineer | Software Developer
 
-## I'm Currently Learning
--  **[Flutter](https://flutter.dev/) For Mobile development (cross-platform)**
+## APPS
+-  **[Email Verifier with Angular And Spring boot](https://mrwilbroad.github.io/email-verifier/)**
 
 
