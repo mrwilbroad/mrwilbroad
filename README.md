@@ -34,7 +34,8 @@
 - GraphQL
 
 ###  Backend 
-- PHPLaravel
+- PHP
+- Laravel
 - Spring Boot
 - Django Pending...
          
