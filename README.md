@@ -23,17 +23,11 @@
 ## whoami | grep less
   - Software Engineer | Software Developer
 
-## 🚀 Skills
-### Frontend Development
-1. [TypeScript](https://www.typescriptlang.org/)
-2. [AngularJS](https://angularjs.org/)
-3. [ReactJS](https://react.dev/)
-4. [VueJS](https://vuejs.org/)
-5. [Next.js (React Framework)](https://nextjs.org/)
-6. [RESTful API - Web Services](https://developer.mozilla.org/en-US/docs/Glossary/REST)
-7. [GraphQL - Web Services](https://graphql.org/)
+## 🚀 Skills -- So Far what i have covered ...
+### Frontend 
+1. [TypeScript](https://www.typescriptlang.org/),[AngularJS](https://angularjs.org/),[ReactJS](https://react.dev/),[VueJS](https://vuejs.org/),[Next.js (React Framework)](https://nextjs.org/),[RESTful API - Web Services](https://developer.mozilla.org/en-US/docs/Glossary/REST),[GraphQL - Web Services](https://graphql.org/)
 
-###  Backend Development
+###  Backend 
 1. [PHP](https://www.php.net/)
 2. [Laravel (PHP Framework)](https://laravel.com/)
 3. [Spring Boot (Java Framework)](https://spring.io/projects/spring-boot)
