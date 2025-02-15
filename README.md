@@ -25,10 +25,18 @@
 
 ## 🚀 Skills -- So Far what i have covered ...
 ### Frontend 
-- TypeScript,- AngularJS , - ReactJS,- VueJS,- Next.js,- RESTful API ,- GraphQL
+- TypeScript,
+- AngularJS
+- ReactJS,
+- VueJS,
+- Next.js
+- RESTful API
+- GraphQL
 
 ###  Backend 
-. PHP],. Laravel,. Spring Boot, . Django Pending...
+- PHPLaravel
+- Spring Boot
+- Django Pending...
          
     
 ## APPS
