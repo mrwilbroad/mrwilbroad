@@ -23,6 +23,24 @@
 ## whoami | grep less
   - Software Engineer | Software Developer
 
+## 🚀 Skills
+### Frontend Development
+1. [TypeScript](https://www.typescriptlang.org/)
+2. [AngularJS](https://angularjs.org/)
+3. [ReactJS](https://react.dev/)
+4. [VueJS](https://vuejs.org/)
+5. [Next.js (React Framework)](https://nextjs.org/)
+6. [RESTful API - Web Services](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+7. [GraphQL - Web Services](https://graphql.org/)
+
+###  Backend Development
+1. [PHP](https://www.php.net/)
+2. [Laravel (PHP Framework)](https://laravel.com/)
+3. [Spring Boot (Java Framework)](https://spring.io/projects/spring-boot)
+4. [Django (Python Framework) - Pending...](https://www.djangoproject.com/)
+
+         
+    
 ## APPS
 -  **[Email Verifier with Angular And Spring boot](https://mrwilbroad.github.io/email-verifier/)**
 
