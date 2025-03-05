@@ -22,22 +22,14 @@
 
 ## whoami | grep less
   - Software Engineer | Software Developer
+  - Experince to work with Agile Methodology
 
 ## 🚀 Skills -- So Far what i have covered ...
 ### Frontend 
-- TypeScript,
-- AngularJS
-- ReactJS,
-- VueJS,
-- Next.js
-- RESTful API
-- GraphQL
-
+- TypeScript,AngularJS,ReactJS,VueJS,Next.js,RESTful API ,GraphQL
+- 
 ###  Backend 
-- PHP
-- Laravel
-- Spring Boot
-- Django Pending...
+- PHP ,Laravel ,Spring Boot ,Django Pending...
          
     
 ## APPS
