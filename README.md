@@ -24,16 +24,12 @@
   - Software Engineer | Software Developer
   - Experince to work with Agile Methodology
 
-## 🚀 Skills -- So Far what i have covered ...
+## 🚀 So Far...
 ### Frontend 
 - **TypeScript**,**AngularJS**,**ReactJS**,**VueJS**,**Next.js**,**RESTful API** ,**GraphQL**
 ###  Backend 
 - **PHP** ,**Laravel** ,**Spring Boot** ,**Django Pending...**
          
-    
-## APPS
--  **[Email Verifier with Angular And Spring boot](https://mrwilbroad.github.io/email-verifier/)**
-
 ## Certificates
 01. [IT RISK MANAGEMENT FROM CYBERGEN TRAINING](https://cybergentraining.co.tz/)
       ![IT RISK MANAGEMENT FROM CYBERGEN TRAINING](https://github.com/user-attachments/assets/b3443ede-9f17-44f7-8e12-fc5e81fbbe9c)
