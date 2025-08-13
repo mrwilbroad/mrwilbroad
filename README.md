@@ -16,7 +16,6 @@
 <p align="center">
   <a target="_blank" href="https://bento.me/mrwilbroad">bento</a> •
   <a target="_blank" href="https://twitter.com/mrwilbroad">Twitter</a> •
-  <a target="_blank"  href="https://www.instagram.com/mrwilbroad/">Instagram</a>
   <a target="_blank" href="https://www.ih-africa.com/">Visit </a>
 </p>
 
