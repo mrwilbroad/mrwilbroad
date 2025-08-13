@@ -23,18 +23,3 @@
 ## whoami | grep less
   - Software Engineer | Software Developer
   - Experince to work with Agile Methodology
-
-## 🚀 So Far...
-### Frontend 
-- **TypeScript**,**AngularJS**,**ReactJS**,**VueJS**,**Next.js**,**RESTful API** ,**GraphQL**
-###  Backend 
-- **PHP** ,**Laravel** ,**Spring Boot** ,**Django Pending...**
-         
-## Certificates
-01. [IT RISK MANAGEMENT FROM CYBERGEN TRAINING](https://cybergentraining.co.tz/)
-      ![IT RISK MANAGEMENT FROM CYBERGEN TRAINING](https://github.com/user-attachments/assets/b3443ede-9f17-44f7-8e12-fc5e81fbbe9c)
-02. [JAVA SPRING FRAMEWORK 6 WITH SPRING BOOT 3 CERTIFICATE FROM UDEMY](https://www.udemy.com)
-      ![JAVA SPRING FRAMEWORK 6 WITH SPRING BOOT 3 CERTIFICATE FROM UDEMY](https://github.com/user-attachments/assets/33558585-b5fe-43f2-92e6-c71da037e38a)
-
-
-
